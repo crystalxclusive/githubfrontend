@@ -1,0 +1,42 @@
+body {
+  width: 1440px;
+}
+.big-container {
+  display: flex;
+  height: 1440px;
+  width: 1440px;
+  background: hsl(212, 45%, 89%);
+  align-content: center;
+  justify-content: center;
+}
+.small-container {
+  background-color: white;
+  width: 300px;
+  height: 430px;
+  border-radius: 25px;
+  align-content: center;
+  justify-content: center;
+  margin: 20% 0% 10% 0%;
+}
+.image {
+  position: relative;
+  width: 260px;
+  height: 250px;
+  padding: 10px 10px 10px 10px;
+  margin-left: 10px;
+  border-radius: 20px;
+}
+.improve {
+  text-align: center;
+  font-size: 20px;
+  width: 250px;
+  margin-left: 20px;
+}
+.scan {
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+  font-weight: 700px;
+  text-align: center;
+  width: 240px;
+  margin-left: 20px;
+}
