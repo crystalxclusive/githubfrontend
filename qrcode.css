@@ -31,6 +31,7 @@ body {
   font-size: 20px;
   width: 250px;
   margin-left: 20px;
+  font-family: Outfit;
 }
 .scan {
   font-size: 15px;
@@ -39,4 +40,5 @@ body {
   text-align: center;
   width: 240px;
   margin-left: 20px;
+  font-family: Outfit;
 }
