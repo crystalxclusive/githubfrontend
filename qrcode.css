@@ -1,10 +1,5 @@
-body {
-  width: 1440px;
-}
+
 .big-container {
-  display: flex;
-  height: 1440px;
-  width: 1440px;
   background: hsl(212, 45%, 89%);
   align-content: center;
   justify-content: center;
