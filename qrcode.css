@@ -45,5 +45,5 @@ body {
 @media screen and (max-width: 600px) {
   /** Main Container **/
   .small-container {
-    margin: 20px;
+    margin: auto;
   }
